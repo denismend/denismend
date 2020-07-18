@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-:rocket:
+:rocket: Progragador FullStack
+- Java
+- Nodejs
+- Angularjs
+- Angular 2+
+- React
+- React Native
+- Android (Native)
 
 <!--
 **denismend/denismend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

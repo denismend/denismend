@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-:rocket: Programador FullStack
+:rocket: FullStack Developer
 - Java
 - Nodejs
 - Angularjs

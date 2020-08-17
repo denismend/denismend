@@ -1,6 +1,12 @@
-## Hi, I'm <a href="https://www.linkedin.com/in/ashwanisng/">Denis</a> 👋
+## Hi, I'm <a href="https://linkedin.com/in/denis-ladeira-814365115/">Denis  <img src=".github/hi.gif" width="30px" alt="hi"></a>
 
-[![teste](https://user-images.githubusercontent.com/37448340/87267194-5a2c8c80-c49d-11ea-95a5-993860580961.png)](https://linkedin.com/in/denis-ladeira-814365115)
+<p align="center">
+ <a href="mailto:denisladeira1@gmail.com"><img src=".github/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
+ <a href="https://github.com/denismend"><img src=".github/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
+ <a href="https://linkedin.com/in/denis-ladeira-814365115"><img src=".github/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+ <a href="https://discord.com/users/Denis Ladeira#1404"><img src=".github/discord.svg" width="30px" alt="Discord"></a> &nbsp; &nbsp;
+ <a href="https://t.me/denisfloyd"><img src=".github/telegram.svg" width="30px" alt="ctftime"></a> &nbsp; &nbsp;
+</p>
 
 :rocket: FullStack Developer
 - Java

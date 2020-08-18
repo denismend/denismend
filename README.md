@@ -1,11 +1,11 @@
-## Hi, I'm <a href="https://linkedin.com/in/denis-ladeira-814365115/">Denis  <img src=".github/hi.gif" width="30px" alt="hi"></a>
+## Hi, I'm <a href="https://linkedin.com/in/denis-ladeira-814365115/">Denis  <img src="https://github.com/denismend/denismend/blob/master/.github/hi.gif" width="30px" alt="hi"></a>
 
 <p align="center">
- <a href="mailto:denisladeira1@gmail.com"><img src=".github/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
- <a href="https://github.com/denismend"><img src=".github/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
- <a href="https://linkedin.com/in/denis-ladeira-814365115"><img src=".github/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
- <a href="https://discord.com/users/Denis Ladeira#1404"><img src=".github/discord.svg" width="30px" alt="Discord"></a> &nbsp; &nbsp;
- <a href="https://t.me/denisfloyd"><img src=".github/telegram.svg" width="30px" alt="ctftime"></a> &nbsp; &nbsp;
+ <a href="mailto:denisladeira1@gmail.com"><img src="https://github.com/denismend/denismend/blob/master/.github/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
+ <a href="https://github.com/denismend"><img src="https://github.com/denismend/denismend/blob/master/.github/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
+ <a href="https://linkedin.com/in/denis-ladeira-814365115"><img src="https://github.com/denismend/denismend/blob/master/.github/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+ <a href="https://discord.com/users/Denis Ladeira#1404"><img src="https://github.com/denismend/denismend/blob/master/.github/discord.svg" width="30px" alt="Discord"></a> &nbsp; &nbsp;
+ <a href="https://t.me/denisfloyd"><img src="https://github.com/denismend/denismend/blob/master/.github/telegram.svg" width="30px" alt="ctftime"></a> &nbsp; &nbsp;
 </p>
 
 :rocket: FullStack Developer
